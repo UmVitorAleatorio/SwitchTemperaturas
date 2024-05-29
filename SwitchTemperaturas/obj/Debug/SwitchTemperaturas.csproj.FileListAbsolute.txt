@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\Tarefa6\SwitchTemperaturas\SwitchTemperaturas\bin\Debug\SwitchTemperaturas.exe.config
+C:\Users\vitor\source\repos\Tarefa6\SwitchTemperaturas\SwitchTemperaturas\bin\Debug\SwitchTemperaturas.exe
+C:\Users\vitor\source\repos\Tarefa6\SwitchTemperaturas\SwitchTemperaturas\bin\Debug\SwitchTemperaturas.pdb
+C:\Users\vitor\source\repos\Tarefa6\SwitchTemperaturas\SwitchTemperaturas\obj\Debug\SwitchTemperaturas.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Tarefa6\SwitchTemperaturas\SwitchTemperaturas\obj\Debug\SwitchTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Tarefa6\SwitchTemperaturas\SwitchTemperaturas\obj\Debug\SwitchTemperaturas.exe
+C:\Users\vitor\source\repos\Tarefa6\SwitchTemperaturas\SwitchTemperaturas\obj\Debug\SwitchTemperaturas.pdb
